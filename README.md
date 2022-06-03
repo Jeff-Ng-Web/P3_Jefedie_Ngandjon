@@ -18,7 +18,7 @@ Compétences développées :
 Status : fini
 
 ## Site Live
-https://Jeff-Ng-Web.github.io/P3_Jefedie_Ngandjon
+https://github.com/Jeff-Ng-Web/P3_Jefedie_Ngandjon.github.io.git
 
 ## Technologies
 * HTML5
