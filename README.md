@@ -1,6 +1,6 @@
 # P3_Jefedie_Ngandjon
 # Dynamisez une page web avec des animations CSS
-3ème projet du parcours développeur web d'OpenClassrooms
+Projet N°3 du parcours développeur web d'OpenClassrooms
 
 ## General Info
 But : Réaliser un site mobile first répertoriant les menus de 4 restaurants gastronomiques parisiens et permettant de composer son menu en ligne
@@ -18,7 +18,7 @@ Compétences développées :
 Status : fini
 
 ## Site Live
-
+ https://jeff-ng-web.github.io/P3_Jefedie_Ngandjon/
 
 ## Technologies
 * HTML5
