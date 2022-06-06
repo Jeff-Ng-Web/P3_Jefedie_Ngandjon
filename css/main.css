@@ -18,6 +18,28 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: baseline; }
 
+h1 {
+  margin: 7px; }
+
+h1, h2 {
+  font-size: 1.5em;
+  font-weight: 900;
+  margin-bottom: 15px; }
+
+h3 {
+  font-weight: 700;
+  font-size: 1.2em;
+  margin-bottom: 3px; }
+
+h4 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 1.1em;
+  padding-bottom: 15px; }
+
+.page-link {
+  text-decoration: none;
+  color: inherit; }
+
 header {
   display: flex;
   flex-direction: row;
@@ -51,28 +73,6 @@ body {
 .contenu-page {
   width: 100%;
   z-index: 1; }
-
-h1 {
-  margin: 7px; }
-
-h1, h2 {
-  font-size: 1.5em;
-  font-weight: 900;
-  margin-bottom: 15px; }
-
-h3 {
-  font-weight: 700;
-  font-size: 1.2em;
-  margin-bottom: 3px; }
-
-h4 {
-  font-family: 'Shrikhand', cursive;
-  font-size: 1.1em;
-  padding-bottom: 15px; }
-
-.page-link {
-  text-decoration: none;
-  color: inherit; }
 
 .section-recherche {
   display: flex;
